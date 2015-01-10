@@ -3,7 +3,7 @@
 ===================
 本项目为微信JS SDK的TypeScript定义，即d.ts文件。
     
-于2015年1月10日在微信官方推出JSSDK后创建。
+于2015年1月10日在微信官方推出JS SDK后创建。
    
 微信API具体是指 [微信公众平台开发者文档](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html) 所述的jweixin-1.0.0.js的API。
 
